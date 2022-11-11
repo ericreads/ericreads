@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Eric
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning OpenGL/C++
 
 <!---
 ericreads/ericreads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
